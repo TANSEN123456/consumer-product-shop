@@ -1,1 +1,13 @@
 
+body{
+font-family: Arial;
+text-align:center;
+background:#f2f2f2;
+}
+
+.product{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
