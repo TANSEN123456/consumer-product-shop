@@ -1,4 +1,36 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
 
-function buyProduct(){
-alert("Product added to cart!");
+.title{
+margin-top:30px;
+}
+
+.product{
+background:white;
+width:250px;
+margin:auto;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.product img{
+width:100%;
+}
+
+.price{
+color:green;
+font-size:20px;
+}
+
+button{
+background:#ff6600;
+color:white;
+border:none;
+padding:10px 20px;
+cursor:pointer;
+border-radius:5px;
 }
